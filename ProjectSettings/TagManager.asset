@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - topWall
+  - lazer
+  - ground
+  - Ball_02
+  - Ball_03
+  - rightWall
+  - leftWall
+  - timeStop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Lazer
+  - Player
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 3241612243
+    locked: 0
+  - name: premier
+    uniqueID: 112121347
+    locked: 0
+  - name: play
+    uniqueID: 1814798273
+    locked: 0
